@@ -1,1 +1,1 @@
-# CG Learning
+# 仅用于记录个人CG学习
